@@ -605,7 +605,7 @@ class MapButton(ButtonEvent):
     def update(self, button):
         keys = pygame.key.get_pressed()
         if focus == main:
-            elapsed = self.cds.elapsed("move_keys")
+            elapsed = min(1, self.cds.elapsed("move_keys"))
             if keys[pygame.K_LEFT] or keys[pygame.K_a]:
                 self.offset[0] = self.offset[0] - (self.key_velocity[0] * elapsed)
                 self.change = True
