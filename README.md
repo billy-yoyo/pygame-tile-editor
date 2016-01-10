@@ -36,3 +36,8 @@ To the right of the text-box, in order from left to right, are the save, load an
 There are tooltips on most of these.
 
 Please feel free to offer any suggestions/criticisms. 
+
+##Things todo:
+Add the ability to load tilesets
+add the ability to set the width/height of new maps
+add the ability to set the width/height of current maps
