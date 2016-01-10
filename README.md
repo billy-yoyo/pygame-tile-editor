@@ -26,13 +26,12 @@ scroll wheel to scroll up and down
 left click to select a tiletype and tileid.
 
 ## Buttons:
-on the upper-right hand side there are 8 buttons (the top 4 are the only ones currently in use). These are paint, fill, select and erase.
-just above the tile selecter is the layer-selecter. This is the layer you are currently drawing on. The map will by default show this layer
-and everything below it. The eye to the right of the text-box toggles single-layer-view, if the eye is outlined in red the map is only drawing
-the selected layer. The arrows either side of the layer selection move the layer up or down one.
-The text-box should be fairly obvious, give it focus and type to enter text, use left/right arrows to move the cursor left/right and use
+  -on the upper-right hand side there are 8 buttons (the top 4 are the only ones currently in use). These are paint, fill, select and erase.
+  -just above the tile selecter is the layer-selecter. This is the layer you are currently drawing on. The map will by default show this layer and everything below it. The eye to the right of the text-box toggles single-layer-view, if the eye is outlined in red the map is only drawing the selected layer. The arrows either side of the layer selection move the layer up or down one.
+  -The text-box should be fairly obvious, give it focus and type to enter text, use left/right arrows to move the cursor left/right and use
 backspace to get rid of text. You cannot click to place the cursor (sorry).
-To the right of the text-box, in order from left to right, are the save, load and new-file buttons. Which should be obvious as to their function.
+  -To the right of the text-box, in order from left to right, are the save, load and new-file buttons. Which should be obvious as to their function.
+  
 There are tooltips on most of these.
 
 Please feel free to offer any suggestions/criticisms. 
